@@ -1,0 +1,11 @@
+# conda environments:
+#
+CS188                    C:\Users\Richard\Anaconda3\envs\CS188
+DSD                      C:\Users\Richard\Anaconda3\envs\DSD
+a.1                      C:\Users\Richard\Anaconda3\envs\a.1
+calhacks                 C:\Users\Richard\Anaconda3\envs\calhacks
+test                     C:\Users\Richard\Anaconda3\envs\test
+ulab_2.7                 C:\Users\Richard\Anaconda3\envs\ulab_2.7
+ulab_3.6              *  C:\Users\Richard\Anaconda3\envs\ulab_3.6
+root                     C:\Users\Richard\Anaconda3
+
